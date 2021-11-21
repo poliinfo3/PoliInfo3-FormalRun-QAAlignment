@@ -3,6 +3,8 @@
 ### ファイルの説明
 * PoliInfo3_QAAlignment_v20211120-Test.json: QA Alignment の Dry Run で使用するテストデータ．令和2年の1年分のデータです．このデータのQAIDの値を埋めたものをリーダーボードへ提出して下さい．
 
+* PoliInfo3_QAAlignment_v20210910-Train.json: QA Alignment で使用する正解付きデータ．平成23年度第2回から平成28年度第4回までのデータ．学習データなどに利用して下さい．DryRunのときと同じものです．
+
 ### テストデータの補足説明
 今回は，東京都が公開している[本会議ネットリポート](https://www.gikai.metro.tokyo.jp/netreport/)における対応付けを正解とします．
 人手で作成されているため，同じような発言でも対応付けが異なっている場合があります．
